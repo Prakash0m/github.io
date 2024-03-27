@@ -1,0 +1,46 @@
+/* Header styles */
+header {
+  background-color: #11f42b;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Section styles */
+section {
+  margin-bottom: 40px;
+}
+
+/* Form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input,
+form textarea {
+  margin-bottom: 10px;
+}
+
+form button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #280ed4;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Footer styles */
+footer {
+  background-color: #e50d0d;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}

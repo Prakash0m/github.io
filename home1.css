@@ -1,0 +1,25 @@
+/* styles.css */
+
+header {
+  background-color: #45cb14;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+#slider {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide {
+  width: 100%;
+  display: none;
+}
+
+.slide img {
+  width: 100%;
+}
+
+/* Add CSS for transitions, animations, or slider controls as needed */
